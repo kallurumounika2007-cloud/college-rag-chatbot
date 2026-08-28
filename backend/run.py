@@ -9,6 +9,7 @@ if str(BACKEND_DIR) not in sys.path:
     sys.path.insert(0, str(BACKEND_DIR))
 os.chdir(BACKEND_DIR)
 
+if __name__ == "__main__":
     port = int(os.environ.get("PORT", 8000))
     host = os.environ.get("HOST", "0.0.0.0")
     is_prod = os.environ.get("RENDER") is not None or os.environ.get("NODE_ENV") == "production"
