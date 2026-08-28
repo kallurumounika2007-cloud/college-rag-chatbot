@@ -1,5 +1,6 @@
 import os
 from pathlib import Path
+from typing import Union, List, Optional
 from pydantic_settings import BaseSettings
 
 BASE_DIR = Path(__file__).resolve().parent.parent
@@ -33,13 +34,13 @@ class Settings(BaseSettings):
     GEMINI_MODEL: str = "gemini-1.5-flash"
     
     # RAG Settings
-    TOP_K_CHUNKS: int = 4
-    SIMILARITY_THRESHOLD: float = 0.25
-    CHUNK_SIZE: int = 650
-    CHUNK_OVERLAP: int = 100
+    TOP_K_CHUNKS: int = 5
+    SIMILARITY_THRESHOLD: float = 0.15
+    CHUNK_SIZE: int = 800
+    CHUNK_OVERLAP: int = 200
     
     # CORS
-    CORS_ORIGINS: Any = [
+    CORS_ORIGINS: Union[List[str], str] = [
         "http://localhost:5173",
         "http://127.0.0.1:5173",
         "http://localhost:3000",
@@ -47,7 +48,7 @@ class Settings(BaseSettings):
         "*"
     ]
 
-    def get_cors_origins(self) -> list[str]:
+    def get_cors_origins(self) -> List[str]:
         if isinstance(self.CORS_ORIGINS, list):
             return self.CORS_ORIGINS
         if isinstance(self.CORS_ORIGINS, str):
