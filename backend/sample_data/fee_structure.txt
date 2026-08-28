@@ -1,0 +1,125 @@
+APEX INSTITUTE OF TECHNOLOGY & MANAGEMENT
+FEE STRUCTURE, SCHOLARSHIP POLICY & FINANCIAL GUIDELINES
+Academic Year 2026-2027
+Document Ref: AITM/FIN/2026/001 | Issued By: Finance & Accounts Division
+
+═══════════════════════════════════════════════════════════════════════════
+
+SECTION 1: ANNUAL TUITION FEE STRUCTURE (B.Tech Programs)
+
+The following fees are applicable for all B.Tech students admitted in the academic year 2026-27. All fees are in Indian Rupees (INR) and are charged annually.
+
+1.1 Department-wise Tuition Fee
+
+  Program                                   Annual Tuition Fee
+  ─────────────────────────────────────────────────────────────
+  Computer Science & Engineering (CSE)       ₹1,85,000
+  Artificial Intelligence & Data Science     ₹1,80,000
+  Electronics & Communication Engg (ECE)     ₹1,55,000
+  Electrical & Electronics Engg (EEE)        ₹1,45,000
+  Mechanical Engineering (ME)                ₹1,40,000
+  Civil Engineering (CE)                     ₹1,35,000
+  Information Technology (IT)                ₹1,75,000
+
+1.2 Additional Mandatory Fees (All Programs)
+
+  Fee Component                              Amount (per year)
+  ─────────────────────────────────────────────────────────────
+  University Examination Fee                 ₹8,500
+  Library & Learning Resources               ₹4,000
+  Laboratory & Consumables Fee               ₹6,500
+  Sports & Cultural Activities               ₹3,000
+  Student Welfare & Medical Fund             ₹2,500
+  Alumni Association Contribution            ₹1,000
+  Transportation (Campus Bus, optional)      ₹18,000
+  ─────────────────────────────────────────────────────────────
+  Total Additional Fees (mandatory)          ₹25,500
+
+1.3 One-Time Admission Fees (First Year Only)
+
+  Fee Component                              Amount
+  ─────────────────────────────────────────────────────────────
+  Admission Processing Fee                   ₹5,000
+  Caution Deposit (refundable at exit)       ₹10,000
+  Identity Card & Smart Card                 ₹500
+  ─────────────────────────────────────────────────────────────
+  Total One-Time Fees                        ₹15,500
+
+EXAMPLE: Total First Year Cost for a CSE Student
+  Tuition Fee                                ₹1,85,000
+  Additional Mandatory Fees                  ₹25,500
+  One-Time Admission Fees                    ₹15,500
+  ─────────────────────────────────────────────────────────────
+  GRAND TOTAL (Year 1, CSE)                  ₹2,26,000
+
+═══════════════════════════════════════════════════════════════════════════
+
+SECTION 2: SCHOLARSHIP PROGRAMS
+
+2.1 Chairman's Merit Scholarship
+
+  Eligibility Criteria:
+  - Category A (100% Tuition Waiver): JEE Main rank 1-1000, OR State CET top 50 rank, OR 10+2 PCM aggregate above 98%
+  - Category B (75% Tuition Waiver): JEE Main rank 1001-5000, OR 10+2 PCM aggregate 95%-97.9%
+  - Category C (50% Tuition Waiver): JEE Main rank 5001-15000, OR 10+2 PCM aggregate 90%-94.9%
+
+  Renewal Conditions: CGPA must be maintained above 8.5 each semester. Scholarship is cancelled if CGPA drops below 8.0.
+
+2.2 Government & State Scholarships
+
+  - Rajiv Gandhi Scholarship (SC/ST): Full fee reimbursement by state government. Students must apply via the state scholarship portal (scholarship.ap.gov.in) by October 15, 2026.
+  - OBC Creamy Layer Waiver: 25% tuition waiver for OBC (Non-Creamy Layer) students with family income below ₹8 lakh per annum.
+  - EWS Scholarship: 10% tuition waiver for Economically Weaker Section students with family income below ₹2.5 lakh per annum.
+  - PMO PRAGATI Scholarship: For girl students in technical programs. Amount: ₹50,000 per year. Apply via NFS portal.
+
+2.3 Sports & Cultural Scholarships
+
+  - National-level sports representatives: 100% tuition waiver for the duration of their program.
+  - State-level sports representatives: 50% tuition waiver.
+  - National cultural award winners: 25% tuition waiver.
+
+2.4 Sibling & Alumni Discount
+
+  - If two siblings are simultaneously enrolled at AITM, the second sibling receives a 10% tuition discount.
+  - Children of AITM alumni receive a flat ₹10,000 discount on annual tuition.
+
+═══════════════════════════════════════════════════════════════════════════
+
+SECTION 3: FEE PAYMENT SCHEDULE & POLICY
+
+3.1 Payment Deadlines
+
+  Semester        Payment Deadline        Late Fee
+  ─────────────────────────────────────────────────────────────
+  Semester 1      August 15, 2026         ₹500/week after deadline
+  Semester 2      January 15, 2027        ₹500/week after deadline
+
+  Note: Students with unpaid fees beyond 30 days of the deadline will be barred from attending classes, examinations, and accessing the library until dues are cleared.
+
+3.2 Payment Methods
+
+  Fees can be paid via:
+  - AITM Student Portal (portal.aitm.edu.in) — NEFT/UPI/Credit Card/Debit Card
+  - SBI Challan at any SBI branch using Institution Code: 97234
+  - DD in favour of "Principal, AITM" payable at Hyderabad
+
+3.3 Fee Refund Policy
+
+  Withdrawal Date                           Refund Amount
+  ─────────────────────────────────────────────────────────────
+  Before commencement of classes            100% tuition (minus ₹5,000 processing)
+  Within 15 days of class commencement      80% tuition
+  Within 30 days of class commencement      60% tuition
+  After 30 days from commencement           No refund
+
+  Caution deposit (₹10,000) is fully refundable upon proper clearance at exit/graduation.
+
+3.4 Education Loan Assistance
+
+  AITM has MoUs with the following banks for collateral-free education loans:
+  - State Bank of India: Up to ₹20 lakh at 8.5% p.a. (Vidya Lakshmi scheme)
+  - Canara Bank: Up to ₹15 lakh at 9.0% p.a.
+  - HDFC Credila: Up to ₹40 lakh at market rate
+  - Axis Bank: Up to ₹20 lakh with moratorium until 12 months after placement
+
+  Contact: finance@aitm.edu.in | Helpline: 040-2345-6790 (Mon-Fri, 9 AM - 5 PM)

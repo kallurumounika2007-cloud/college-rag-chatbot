@@ -1,0 +1,38 @@
+version: '3.8'
+
+services:
+  backend:
+    build:
+      context: ./backend
+      dockerfile: Dockerfile
+    container_name: college_bot_backend
+    restart: unless-stopped
+    ports:
+      - "8000:8000"
+    volumes:
+      - backend_chroma:/app/chroma_db
+      - backend_uploads:/app/uploads
+      - backend_data:/app/data
+    environment:
+      - GEMINI_API_KEY=${GEMINI_API_KEY:-}
+      - GEMINI_MODEL=${GEMINI_MODEL:-gemini-1.5-flash}
+      - OPENAI_API_KEY=${OPENAI_API_KEY:-}
+      - SECRET_KEY=${SECRET_KEY:-college-chatbot-production-secret-key-2026}
+      - SIMILARITY_THRESHOLD=0.15
+      - TOP_K_CHUNKS=5
+
+  frontend:
+    build:
+      context: ./frontend
+      dockerfile: Dockerfile
+    container_name: college_bot_frontend
+    restart: unless-stopped
+    ports:
+      - "80:80"
+    depends_on:
+      - backend
+
+volumes:
+  backend_chroma:
+  backend_uploads:
+  backend_data:

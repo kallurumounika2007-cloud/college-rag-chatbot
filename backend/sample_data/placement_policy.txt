@@ -1,0 +1,159 @@
+APEX INSTITUTE OF TECHNOLOGY & MANAGEMENT
+CAMPUS PLACEMENT POLICY, STATISTICS & CAREER DEVELOPMENT GUIDELINES
+Academic Year 2025-2026 (Published for 2026-27 Batch Reference)
+Document Ref: AITM/CDC/2026/005 | Issued By: Career Development Centre (CDC)
+
+═══════════════════════════════════════════════════════════════════════════
+
+SECTION 1: PLACEMENT STATISTICS - BATCH 2021-2025
+
+1.1 Overall Placement Summary
+
+  Metric                                    Value
+  ──────────────────────────────────────────────────────────────────────────
+  Total Final Year Students (2025 batch)    618
+  Students Registered for Placements       582
+  Students Placed (at least 1 offer)       549
+  Overall Placement Rate                   94.2%
+  Average CTC Offered                      ₹9.2 LPA
+  Average CTC (CSE + AI/DS only)           ₹11.4 LPA
+  Median CTC Offered                       ₹7.8 LPA
+  Highest Domestic Package                 ₹32 LPA (Microsoft, CSE)
+  Highest International Package            ₹44 LPA (Google Singapore, CSE)
+  Number of Companies Visited              147
+  Total Job Offers Extended                726 (including multiple offers)
+  Students with Multiple Offers (2+)       177
+  Pre-Placement Offers (PPOs) Converted    62
+
+1.2 Department-wise Placement Statistics
+
+  Department        Registered  Placed  Rate    Avg CTC     Highest CTC
+  ──────────────────────────────────────────────────────────────────────────────
+  CSE               172         169     98.3%   ₹12.6 LPA   ₹44 LPA (Google)
+  AI & Data Science 112         109     97.3%   ₹13.1 LPA   ₹38 LPA (Amazon)
+  ECE               113         106     93.8%   ₹8.4 LPA    ₹22 LPA (Qualcomm)
+  IT                57          55      96.5%   ₹10.2 LPA   ₹28 LPA (Infosys)
+  EEE               56          49      87.5%   ₹6.8 LPA    ₹14 LPA (L&T)
+  Mechanical        58          45      77.6%   ₹5.9 LPA    ₹11 LPA (Tata Motors)
+  Civil             14           16     ─       ─           ─
+
+1.3 CTC Package Distribution (All Placed Students)
+
+  Package Range                   Number of Students  Percentage
+  ──────────────────────────────────────────────────────────────────
+  Above ₹20 LPA (Super Dream)     43                  7.8%
+  ₹10 LPA - ₹20 LPA (Dream)       158                 28.8%
+  ₹6 LPA - ₹10 LPA (Mass)         271                 49.4%
+  Below ₹6 LPA                    77                  14.0%
+
+═══════════════════════════════════════════════════════════════════════════
+
+SECTION 2: TOP RECRUITING COMPANIES (2025 Batch)
+
+2.1 Tier 1 Recruiters (CTC above ₹20 LPA)
+
+  Company           Roles Offered                    No. of Offers  Avg CTC
+  ──────────────────────────────────────────────────────────────────────────────
+  Google            SWE, ML Engineer                 4              ₹38 LPA
+  Microsoft         SDE, Cloud Engineer              7              ₹28 LPA
+  Amazon            SDE, Data Engineer               12             ₹22 LPA
+  Goldman Sachs     Technology Analyst               6              ₹25 LPA
+  Qualcomm          VLSI Engineer, DSP               5              ₹22 LPA
+  Adobe             SDE                              3              ₹20 LPA
+  Salesforce        Software Engineer                4              ₹21 LPA
+
+2.2 Tier 2 Recruiters (CTC ₹10 LPA - ₹20 LPA)
+
+  Flipkart, Paytm, PhonePe, Zomato, Swiggy, Ola, BYJU's, Freshworks,
+  Zoho Corporation, Mindtree, Mphasis, L&T Technology Services, Hexaware,
+  KPIT Technologies, Persistent Systems, Cyient, Coforge, Zensar Technologies
+
+2.3 Mass/Regular Recruiters (CTC ₹4 LPA - ₹10 LPA)
+
+  TCS (TCS NQT), Infosys (InfyTQ), Wipro, HCL Technologies, Tech Mahindra,
+  Capgemini, Accenture, IBM, Cognizant, Oracle India, SAP Labs, Bosch,
+  Siemens, Honeywell, L&T, BHEL, NTPC, Power Grid Corporation (PSU)
+
+2.4 Core/Domain Recruiters
+
+  - Electronics: Texas Instruments, STMicroelectronics, NXP, Analog Devices, Renesas
+  - Mechanical/Civil: Tata Motors, Mahindra, ISRO, DRDO, GAIL, IOCL, SAIL
+  - Finance/Consulting: EY, Deloitte, KPMG, PwC, Accenture Strategy
+
+═══════════════════════════════════════════════════════════════════════════
+
+SECTION 3: PLACEMENT ELIGIBILITY CRITERIA
+
+3.1 Eligibility Requirements
+
+  For a student to be registered with the Career Development Centre and participate in campus recruitment drives, the following conditions MUST be met:
+
+  Academic Requirements:
+  - Minimum CGPA: 6.5 or above calculated across all semesters completed at time of registration (typically end of 7th semester).
+  - No standing backlogs (active failed subjects) at the time of placement registration.
+  - Minimum 85% attendance in all Career Development Centre (CDC) training sessions conducted from 5th semester onwards.
+
+  Documentation Requirements:
+  - Completed Placement Registration Form on the CDC portal (cdc.aitm.edu.in)
+  - Updated Resume uploaded in the prescribed AITM resume format (Word/PDF)
+  - LinkedIn profile URL (mandatory)
+  - GitHub/Portfolio link (mandatory for CSE, IT, AI&DS students)
+
+3.2 CGPA Relaxation Policy
+
+  - Students with CGPA between 6.0 and 6.5 may apply for a relaxation with valid reasons (e.g., health issues, family emergencies) with documentation. Approval is at the discretion of the CDC Director.
+  - Students with CGPA below 6.0 are NOT eligible for on-campus placements but may avail CDC resources for off-campus job search support.
+
+3.3 Placement Attempt Rules
+
+  - Each student gets a maximum of THREE job offer acceptance chances.
+  - Once a student accepts an offer (signs the offer letter), they are removed from the active placement pool. Exception: if the offer is from a "Dream Company" (CTC > ₹15 LPA), students may continue to participate in Tier 1 drives only.
+  - Students must inform CDC within 24 hours of receiving any off-campus offer to update placement records.
+
+═══════════════════════════════════════════════════════════════════════════
+
+SECTION 4: CAREER DEVELOPMENT CENTRE SERVICES
+
+4.1 Training Programs
+
+  The CDC provides the following mandatory and optional training programs:
+
+  Mandatory (5th Semester onwards):
+  - Aptitude & Quantitative Reasoning (40 hours, 5th Sem)
+  - Communication Skills & Group Discussion (30 hours, 5th Sem)
+  - Technical Interview Preparation - DSA & DBMS (60 hours, 6th Sem)
+  - Mock Interviews (individual feedback sessions, 7th Sem)
+
+  Optional / Elective (Available to all):
+  - AWS Cloud Practitioner Certification Support (free of cost for final year)
+  - Microsoft Azure Fundamentals Certification Support
+  - GATE Examination Coaching (3 hours/week, 7th & 8th Sem)
+  - Entrepreneurship Development Cell workshops
+
+4.2 Internship Policy
+
+  - Students are encouraged to complete at least ONE internship (minimum 4 weeks) during summer vacations (between 2nd and 3rd year).
+  - CDC maintains an internship portal with 80+ partner companies.
+  - Internships completed through CDC channels are recorded in the student's official transcript.
+  - Students with verified internship offers from companies offering PPO (Pre-Placement Offer) get CDC priority in placement registration.
+
+4.3 Higher Education Support
+
+  CDC supports students pursuing higher education after B.Tech:
+  - GATE Mentoring: Regular mock tests and guidance for IIT/NIT M.Tech admissions.
+  - GRE/GMAT Preparation: Tie-ups with coaching institutes (discounted rates).
+  - MBA Preparation: Connections to top B-School alumni for guidance sessions.
+
+═══════════════════════════════════════════════════════════════════════════
+
+SECTION 5: CDC CONTACTS
+
+  Position                       Name                      Contact
+  ──────────────────────────────────────────────────────────────────────────
+  Director, CDC                  Prof. Anand Kumar Sharma  040-2345-6810
+  Placement Coordinator (CSE)    Ms. Divya Nair            040-2345-6811
+  Placement Coordinator (ECE)    Mr. Rajesh Verma          040-2345-6812
+  Placement Coordinator (Mech)   Mr. Suresh Rao            040-2345-6813
+  CDC Email                      placements@aitm.edu.in    —
+  Company Registration Portal    cdc.aitm.edu.in/companies —
+  Student CDC Portal             cdc.aitm.edu.in/students  —

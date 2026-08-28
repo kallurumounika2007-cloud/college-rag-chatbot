@@ -1,0 +1,150 @@
+APEX INSTITUTE OF TECHNOLOGY & MANAGEMENT
+ADMISSION GUIDELINES, ELIGIBILITY CRITERIA & ENROLLMENT PROCEDURES
+Academic Year 2026-2027
+Document Ref: AITM/ADM/2026/003 | Issued By: Admissions Office
+
+═══════════════════════════════════════════════════════════════════════════
+
+SECTION 1: ELIGIBILITY CRITERIA FOR B.TECH ADMISSION
+
+1.1 Academic Qualifications
+
+  All candidates must have passed 10+2 (Higher Secondary Certificate) or equivalent examination from a recognized board with the following minimum requirements:
+
+  General Category:
+  - Minimum 60% aggregate in Physics, Chemistry, and Mathematics (PCM)
+  - No subject-wise minimum requirement beyond the aggregate
+
+  SC / ST / OBC / PwD Category:
+  - Minimum 55% aggregate in PCM (5% relaxation from General criteria)
+
+  Lateral Entry (3rd Year Direct Admission for Diploma Holders):
+  - Minimum 60% in relevant Diploma program from a State Board of Technical Education
+  - Direct admission to 3rd Semester
+
+1.2 Entrance Exam Requirements
+
+  Mandatory Entrance Exams (any one):
+  - JEE Main 2026: Score card with NTA percentile
+  - Telangana State EAMCET 2026: Rank card
+  - AP EAMCET 2026: Rank card
+
+  Minimum Qualifying Marks for AITM:
+  - JEE Main: No minimum cutoff, but preference given above 60 percentile
+  - EAMCET: No minimum cutoff for state quota (75%) seats
+
+1.3 Age Limit
+
+  - Minimum age: 17 years as on December 31, 2026
+  - Maximum age: No upper age limit for B.Tech admissions as per AICTE norms
+
+═══════════════════════════════════════════════════════════════════════════
+
+SECTION 2: SEAT MATRIX & RESERVATION POLICY
+
+2.1 Total Intake & Seat Distribution
+
+  Program                       Total Seats    NRI Seats   Management Seats
+  ──────────────────────────────────────────────────────────────────────────
+  CSE                           180            9           27
+  AI & Data Science             120            6           18
+  ECE                           120            6           18
+  EEE                           60             3           9
+  Mechanical Engineering        60             3           9
+  Civil Engineering             60             3           9
+  Information Technology        60             3           9
+  ──────────────────────────────────────────────────────────────────────────
+  TOTAL                         660            33          99
+
+2.2 Reservation of Seats (Government Quota - 75% of Total)
+
+  Category                      Reservation Percentage
+  ──────────────────────────────────────────────────────
+  Scheduled Caste (SC)          15%
+  Scheduled Tribe (ST)          6%
+  OBC (Non-Creamy Layer)        27%
+  EWS (Economically Weaker)     10%
+  PwD (Persons with Disability) 5% (horizontal)
+  General/Unreserved            37%
+
+═══════════════════════════════════════════════════════════════════════════
+
+SECTION 3: ADMISSION PROCESS
+
+3.1 Online Application
+
+  Step 1: Register at admissions.aitm.edu.in (application fee: ₹500, non-refundable)
+  Step 2: Fill in academic details, upload documents, select program preferences (up to 3)
+  Step 3: Upload scanned copies of all mandatory documents (see Section 3.3)
+  Step 4: Pay application fee online via UPI/Net Banking/Debit Card
+  Step 5: Download and save your Application ID (format: AITM2026XXXXXX)
+
+3.2 Key Admission Dates
+
+  Event                                     Date
+  ──────────────────────────────────────────────────────────────────────────
+  Online Application Opens                  May 15, 2026
+  Last Date for Online Applications         July 10, 2026
+  Merit List (Round 1) Publication          July 15, 2026
+  Round 1 Counseling & Fee Payment          July 16-22, 2026
+  Merit List (Round 2) Publication          July 24, 2026
+  Round 2 Counseling & Fee Payment          July 25-30, 2026
+  Spot Admissions (vacant seats)            August 1, 2026
+  Physical Reporting & Document Verification August 1-5, 2026
+  Last date for Lateral Entry applications  June 30, 2026
+
+3.3 Mandatory Documents for Physical Verification
+
+  All selected candidates MUST report in person with ORIGINAL documents (plus 3 attested photocopies each):
+
+  Document                                          Applicable To
+  ──────────────────────────────────────────────────────────────────────────
+  1. Class 10 Mark Sheet & Pass Certificate         All
+  2. Class 10 Passing/Transfer Certificate (TC)     All
+  3. Class 12 Mark Sheet & Pass Certificate         All
+  4. Class 12 Migration Certificate (if applicable) All (inter-state)
+  5. JEE Main / EAMCET 2026 Rank Card               All
+  6. AITM Provisional Admission Letter (downloaded) All
+  7. Aadhar Card (original + photocopy)             All
+  8. Passport-size Photographs (10 copies)          All
+  9. Category Certificate (SC/ST/OBC/EWS/PwD)      Reserved category
+ 10. Income Certificate (for scholarship)           Scholarship applicants
+ 11. Domicile Certificate (if applicable)           Out-of-state students
+ 12. Medical Fitness Certificate (MBBS doctor)      All
+ 13. Anti-Ragging Undertaking (signed by student)   All
+ 14. Anti-Ragging Undertaking (signed by parent)    All
+ 15. Bank Account Details for Scholarship Credits   Scholarship applicants
+
+3.4 NRI / Management Quota Admissions
+
+  NRI Quota seats are filled by NRI/PIO candidates directly through AITM admissions office.
+  Fee: USD 3,500 per year (or equivalent INR at current RBI rate).
+  Contact: nri.admissions@aitm.edu.in | +91-40-2345-6799
+
+  Management Quota: 15% of total seats filled directly by the institution.
+  Merit-based with a premium of ₹50,000 over the standard tuition fee.
+
+═══════════════════════════════════════════════════════════════════════════
+
+SECTION 4: TRANSFER & WITHDRAWAL POLICY
+
+4.1 Inter-Institute Transfer
+
+  - Students may apply for transfer to another AICTE-approved institute within the first 30 days of the first semester.
+  - Transfer certificate (TC) will be issued within 7 working days of application.
+  - All dues must be cleared before TC is issued.
+  - Caution deposit (₹10,000) will be refunded along with TC after dues clearance.
+
+4.2 Program Change Request
+
+  - Students may request a change of program within AITM within the first 15 days of the academic year.
+  - Change is subject to seat availability in the target program.
+  - No additional fee for program change if both programs have the same tuition fee.
+  - If the new program has higher tuition, the difference must be paid immediately.
+
+4.3 Re-Admission Policy
+
+  - Students who leave voluntarily and wish to re-join must apply fresh through the standard admission process.
+  - Academic credits from the previous enrollment may be transferred at the discretion of the Academic Council.
+
+Contact: admissions@aitm.edu.in | Helpline: 040-2345-6788 | Office Timings: Mon-Sat, 9 AM - 5 PM

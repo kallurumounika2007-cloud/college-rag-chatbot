@@ -1,0 +1,31 @@
+# Virtual Environments
+venv/
+.venv/
+env/
+
+# Dependencies
+node_modules/
+dist/
+build/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+
+# Local databases & sensitive environment secrets
+.env
+*.db
+*.sqlite3
+
+# Vector Store / Temp uploads (persisted in container volumes or recreated on deploy)
+backend/chroma_db/
+backend/uploads/
+backend/college_bot.db
+
+# OS / IDE files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
