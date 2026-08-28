@@ -39,13 +39,22 @@ class Settings(BaseSettings):
     CHUNK_OVERLAP: int = 100
     
     # CORS
-    CORS_ORIGINS: list[str] = [
+    CORS_ORIGINS: Any = [
         "http://localhost:5173",
         "http://127.0.0.1:5173",
         "http://localhost:3000",
         "http://127.0.0.1:3000",
         "*"
     ]
+
+    def get_cors_origins(self) -> list[str]:
+        if isinstance(self.CORS_ORIGINS, list):
+            return self.CORS_ORIGINS
+        if isinstance(self.CORS_ORIGINS, str):
+            if self.CORS_ORIGINS.strip() == "*":
+                return ["*"]
+            return [x.strip() for x in self.CORS_ORIGINS.split(",") if x.strip()]
+        return ["*"]
 
     class Config:
         env_file = ".env"
